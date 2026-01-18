@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=003da5&height=150&section=header&text=Hello!%20I'm%20Yoojin%20Song.&fontSize=60&fontColor=White)
+![header](https://capsule-render.vercel.app/api?type=waving&color=003da5&height=200&section=header&text=Hello!%20I'm%20Yoojin%20Song.&fontSize=60&fontColor=ffffff)
 
 ## Hi there 👋
 
