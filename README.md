@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=2d333b&height=200&section=header&text=Hello!%20I'm%20Yoojin%20Song.&fontSize=40&fontColor=e0e0e0&)
-
 ## Hi there 👋
 
 <!--
