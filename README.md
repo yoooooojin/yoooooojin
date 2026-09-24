@@ -36,11 +36,11 @@
 
 ## 📂 Featured Projects
 
-| Project | Description | Role | Tech Stack | Period | Link |
-|:---:|:---|:---|:---|:---:|:---:|
-| **SwapClass**<br>(수강구조대) | Course-swap platform with auto-matching and real-time chat | Frontend | React, TypeScript, TanStack Query | 2026.03 ~ 2026.08 | [Repo](https://github.com/SongWalks/31th_1_songwalks_swapclass_front) |
-| **Highlite** | A multi-agent service that generates exam questions from highlighted lecture PDFs | Importance Analysis Agent, Frontend UI | FastAPI, PostgreSQL, Streamlit, LangChain, GPT | 2026.03 ~ 2026.06 | [Repo](https://github.com/highlite2026/Highlite-Backend) |
-| **SookWalk** | Walking app with step goals and college rankings for Sookmyung students | Goal & Map features (Frontend & Backend) | Kotlin, Jetpack Compose, Firebase, Google Maps API | 2025.09 ~ 2025.11 | [Repo](https://github.com/yoooooojin/sookwalk-android.git) |
+| Project | Description | Role | Tech Stack | Link |
+|:---:|:---|:---|:---|:---:|
+| **SwapClass**<br>(수강구조대) | Course-swap platform with auto-matching and real-time chat | Frontend | React, TypeScript, TanStack Query | [Repo](https://github.com/SongWalks/31th_1_songwalks_swapclass_front) |
+| **Highlite** | A multi-agent service that generates exam questions from highlighted lecture PDFs | Importance Analysis Agent, Frontend UI | FastAPI, PostgreSQL, Streamlit, LangChain, GPT | [Repo](https://github.com/highlite2026/Highlite-Backend) |
+| **SookWalk** | Walking app with step goals and college rankings for Sookmyung students | Goal & Map features (Frontend & Backend) | Kotlin, Jetpack Compose, Firebase, Google Maps API | [Repo](https://github.com/yoooooojin/sookwalk-android.git) |
 
 <br>
 
