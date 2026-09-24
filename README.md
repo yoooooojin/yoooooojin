@@ -38,12 +38,12 @@
 
 | Project | Description | Role | Tech Stack | Period | Link |
 |:---:|:---|:---|:---|:---:|:---:|
-| **SwapClass**<br>(수강구조대) | A course-swap platform with automatic matching, real-time chat, and QR-based enrollment verification (SOLUX) | Frontend: Lounge, Home, and Report pages | React, TypeScript, TanStack Query, Tailwind CSS, Vite, Axios | 2026.03 ~ 2026.08 | [Repo](https://github.com/SongWalks/31th_1_songwalks_swapclass_front) |
-| **Highlite** | A multi-agent service that generates exam questions from highlighter and pen annotations on lecture PDFs (Capstone Design) | Importance Analysis Agent, Frontend UI, Google login | FastAPI, PostgreSQL (pgvector), Streamlit, LangChain, GPT-4.1 | 2026.03 ~ 2026.06 | [Repo](https://github.com/highlite2026/Highlite-Backend) |
-| **SookWalk** | A walking app for Sookmyung students that motivates walking through step goals and college/department rankings | Goal & Map features (Frontend & Backend) | Kotlin, Jetpack Compose, Hilt, Room, Firebase, Google Maps·Places API | 2025.09 ~ 2025.11 | [Repo](https://github.com/yoooooojin/sookwalk-android.git) |
+| **SwapClass**<br>(수강구조대) | Course-swap platform with auto-matching and real-time chat | Frontend | React, TypeScript, TanStack Query | 2026.03 ~ 2026.08 | [Repo](https://github.com/SongWalks/31th_1_songwalks_swapclass_front) |
+| **Highlite** | A multi-agent service that generates exam questions from highlighted lecture PDFs | Importance Analysis Agent, Frontend UI | FastAPI, PostgreSQL, Streamlit, LangChain, GPT | 2026.03 ~ 2026.06 | [Repo](https://github.com/highlite2026/Highlite-Backend) |
+| **SookWalk** | Walking app with step goals and college rankings for Sookmyung students | Goal & Map features (Frontend & Backend) | Kotlin, Jetpack Compose, Firebase, Google Maps API | 2025.09 ~ 2025.11 | [Repo](https://github.com/yoooooojin/sookwalk-android.git) |
 
 <br>
 
 ## 📫 Contact
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nijoooy@gmail.com) [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white)](https://youjeans.tistory.com)
+![Email](https://img.shields.io/badge/Email-nijoooy%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white) [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white)](https://youjeans.tistory.com)
