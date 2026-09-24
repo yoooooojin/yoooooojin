@@ -29,7 +29,7 @@
 |:---:|:---|:---|
 | 2026.09 ~ Present | **Industry-Academia Collaboration Project** | Researching a multimodal recommendation system and working on a research paper |
 | 2026.03 ~ Present | **SOLUX** | Backend Development Member |
-| 2026.02 | **goorm · QA Intern** | Performed QA testing on the company's services |
+| 2026.02 | **goorm · Strategy Force Fullstack Engineer Intern** | Performed QA testing on the company's services |
 | 2025.03 ~ Present | **ALGOS** | Member of a C++ programming club, studying algorithms and problem solving |
 
 <br>
