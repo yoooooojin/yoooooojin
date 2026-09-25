@@ -38,8 +38,8 @@
 
 | Project | Description | Role | Tech Stack | Link |
 |:---:|:---|:---|:---|:---:|
-| **SwapClass** | Course-swap platform with auto-matching and real-time chat | Frontend | React, TypeScript, TanStack Query | [Repo](https://github.com/SongWalks/31th_1_songwalks_swapclass_front) |
-| **Highlite** | A multi-agent service that generates exam questions from highlighted lecture PDFs | Importance Analysis Agent, Frontend UI | FastAPI, PostgreSQL, Streamlit, LangChain, GPT | [Repo](https://github.com/highlite2026/Highlite-Backend) |
+| **SwapClass** | Course-swap platform with auto-matching and real-time chat | Frontend | React, TypeScript, TanStack Query | [Repo](https://github.com/yoooooojin/31th_1_songwalks_swapclass_front.git) |
+| **Highlite** | A multi-agent service that generates exam questions from highlighted lecture PDFs | Importance Analysis Agent, Frontend UI | FastAPI, PostgreSQL, Streamlit, LangChain, GPT | [Repo](https://github.com/yoooooojin/Highlite-Backend.git) |
 | **SookWalk** | Walking app with step goals and college rankings for Sookmyung students | Frontend & Backend | Kotlin, Jetpack Compose, Firebase, Google Maps API | [Repo](https://github.com/yoooooojin/sookwalk-android.git) |
 
 <br>
